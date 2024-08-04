@@ -6,12 +6,13 @@
 
 :root {
     --text: #fff; /* White text for contrast */
-    --completedText: #a9a9a9; /* Light gray for completed tasks */
+    --completedText: #36bcde; /* Light gray for completed tasks */
     --progressBackground: rgba(255, 255, 255, 0.2);
     --progressFill: #36bcde; /* Neon green */
     --inputBackground: rgba(0, 0, 0, 0.5);
     --buttonBackground: #36bcde; /* Neon green */
     --borderColor: #00f7ff; /* Neon cyan */
+    --checkboxColor: #36bcde;
 }
 
 body {
@@ -163,4 +164,7 @@ button {
 .completed p {
     text-decoration: line-through;
     color: var(--completedText);
+}
+.completed input[type="checkbox"] {
+    accent-color: var(--checkboxColor); /* Change checkbox color to blue */
 }
