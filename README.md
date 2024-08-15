@@ -10,7 +10,7 @@ A simple and intuitive To-Do List app built with Html,Css and Js.
 
 ## Screenshot
 
-![To-Do List App Preview](./preview.jpeg)
+![To-Do List App Preview](./preview.png)
 
 ## Getting Started
 
