@@ -1,6 +1,6 @@
 # To-Do List App
 
-A simple and intuitive To-Do List app built with React.
+A simple and intuitive To-Do List app built with Html,Css and Js.
 
 ## Features
 - Add, edit, and delete tasks
@@ -14,7 +14,7 @@ A simple and intuitive To-Do List app built with React.
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps:
+To get a local copy up and run, follow these steps:
 
 ```bash
 # Clone the repository
